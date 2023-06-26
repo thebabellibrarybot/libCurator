@@ -1,0 +1,33 @@
+.body {
+    height: 90%; /* Set the body container to occupy the full height */
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(214, 209, 100);
+}
+  
+.grid-body {
+    flex-grow: 1; /* Allow the grid-body to grow and occupy remaining space */
+    overflow: auto; /* Enable vertical scrolling if needed */
+  }
+
+.grid-footer {
+    display: flex;
+}
+
+.grid-body {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width */
+    grid-template-rows: repeat(3, 1fr); /* 3 rows with equal height */
+    grid-gap: 3px; /* Gap between grid items */
+  }
+  
+.tomb {
+    border: 1px solid black;
+    margin: 2px;
+    background-color: #eaeaea;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2px;
+  }
+  
