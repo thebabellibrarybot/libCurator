@@ -1,14 +1,14 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
 
     return (
         /* styles === specs(H,W), colors, borders, interior spacing */
         <div className="nav-ex">
-            <p>menu</p>
+            <img src={process.env.PUBLIC_URL + `/book.svg`} alt="profile pic" />
             <ul className="vert-ls">
-                <li>New Tomb</li>
-                <li>My Tombs</li>
-                <li>This Tomb</li>
-                <li>All Tombs</li>
+                <li><Link to = '/mycollections'>My Collections</Link></li>
+                <li><Link to = '/alltombs'>Available Tombs</Link></li>
             </ul>
         </div>
     )

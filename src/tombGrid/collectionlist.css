@@ -1,0 +1,22 @@
+.collection-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    grid-gap: 20px; /* Adjust the gap between grid items as needed */
+    list-style: none;
+    padding: 0;
+  }
+  
+  .collection-item {
+    background-color: #f1f1f1;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .collection-item h3 {
+    margin-top: 0;
+  }
+  
+  .collection-item p {
+    margin: 5px 0;
+  }
+  
