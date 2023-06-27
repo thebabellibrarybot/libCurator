@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     border: 2px solid rgb(214, 209, 100);
+    width: 100%;
 }
   
 .grid-body {
@@ -20,6 +21,14 @@
     grid-template-rows: repeat(3, 1fr); /* 3 rows with equal height */
     grid-gap: 3px; /* Gap between grid items */
   }
+.grid-body-3 {
+  overflow: auto;
+  flex-grow: 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns with equal width */
+  grid-template-rows: repeat(2, 1fr); /* 3 rows with equal height */
+  grid-gap: 3px; /* Gap between grid items */
+}
   
 .tomb {
     border: 1px solid black;

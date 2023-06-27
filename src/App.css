@@ -21,6 +21,11 @@
   justify-content: space-around;
   width: 100%;
 }
+.main-flgd {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates three equal-width columns */
+  grid-gap: 10px;
+}
 .main-header {
   height: fit-content;
   padding: 2px;
@@ -99,6 +104,20 @@
 /* circle */
 .switch {
   display: flex;
+}
+.switch-vert {
+  display: flex;
+  flex-direction: column;
+}
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  width: fit-content;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 .circle {
   width: 10px;

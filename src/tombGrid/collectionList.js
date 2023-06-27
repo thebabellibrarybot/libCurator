@@ -5,7 +5,6 @@ import ChangePage from './changePage.js';
 
 const CollectionList = ({ tombs }) => {
 
-    console.log(tombs, 'tombs', 'form collectionlist')
   const itemsPerPage = 12;
   const totalPages = Math.ceil(tombs.length / itemsPerPage);
   const [currentPage, setCurrentPage] = useState(1);

@@ -66,6 +66,7 @@ const TombGrid = ({ data, type }) => {
               <h1>{tomb.tomb_id}</h1>
               <p>{tomb.tomb_type}</p>
               <p>{tomb.tomb_location}</p>
+              <p>{tomb.tomb_date}</p>
             </div>
             <div onClick={() => handleAddTombToCollection(tomb)}>
               <SVG ability="add" />
