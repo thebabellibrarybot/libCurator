@@ -9,8 +9,8 @@ const ChangePage = ({ changePage, curPage, maxPage }) => {
         </div>
         {curPage ? `Page: ${curPage}/${maxPage}` : 
         <div className="switch"> 
-            <div className={`circle ${maxPage ? 'circle-active':'circle-inactive'}`} ></div>
-            <div className={`circle ${!maxPage ? 'circle-active':'circle-inactive'}`} ></div>
+            <div className={`circle ${maxPage ? 'circle-active':'circle-inactive'}`} onClick={() => changePage(curPage ? -1 : 1)}></div>
+            <div className={`circle ${!maxPage ? 'circle-active':'circle-inactive'}`} onClick={() => changePage(curPage ? 1 : -1)}></div>
         </div>}
         <div onClick={() => changePage(curPage ? 1 : -1)}>
             <SVG ability = 'right'></SVG>

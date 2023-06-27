@@ -36,7 +36,7 @@ const Main = ({pageType}) => {
         <div className="main main-bx">
             <div className="main-header">
                 <div className="header">
-                    {Object.keys(collection).length < 1 ? <CollectionButton/> : <><h1>Current Collection: {Object.keys(collection)[0]}</h1> <CollectionButton/></>}
+                    {Object.keys(collection).length < 1 ? <h1>No Current Collection</h1> : <><h1>Current Collection: {Object.keys(collection)[0]}</h1> <CollectionButton/></>}
                     <Counter /> 
                 </div>
             </div>

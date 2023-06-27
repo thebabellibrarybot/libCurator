@@ -16,6 +16,12 @@ const CollectionButton = () => {
         setCollection({});
         setCount(0);
     };
+    const saveBasic = () => {
+        // check if collection is !empty if !empty prompt user to save collection
+        saveCollection(collection);
+        setCollection({});
+        setCount(0);
+    };
 
     return (
         <div>
@@ -28,7 +34,7 @@ const CollectionButton = () => {
             <>
                 <>
                 <SVG ability = 'savecollection'/>
-                <button onClick={()=>saveCollection(collection)}>save</button>
+                <button onClick={()=>saveBasic(collection)}>save</button>
                 </>
                 <>
                 <SVG ability = 'deletecollection'/>
