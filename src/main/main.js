@@ -9,7 +9,6 @@ import CollectionButton from "../tombGrid/collectionButton";
 const Main = ({pageType}) => {
 
     useEffect(() => {
-        console.log('pageType', pageType);
     }, [pageType]);
 
     const [switchPage, setSwitchPage] = useState(pageType);

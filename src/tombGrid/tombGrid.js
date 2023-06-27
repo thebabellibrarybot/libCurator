@@ -27,7 +27,6 @@ const TombGrid = ({ data, type }) => {
       try {
         return tombArray.some((tombObj) => Object.keys(tombObj)[0] === tomb.tomb_id);
       } catch (error) {
-        console.error('An error occurred while checking tomb existence:', error);
         return false;
       }   
     });

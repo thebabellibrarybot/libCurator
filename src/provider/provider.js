@@ -45,10 +45,13 @@ export const MyProvider = ({ children }) => {
       if (Object.keys(prevCollection).length === 0 && prevCollection.constructor === Object) {
         const randomWord = generateRandomWord(); // Function to generate a random word
         const collectionName = `untitled_${randomWord}`;
-        return { [collectionName]: [obj], 'date_created': Date.now(), 'user': 'user_id' };
+        const timestamp = Date.now();
+        const date = new Date(timestamp).toLocaleString();
+        return { [collectionName]: [obj], 'date_created': date, 'user': 'user_id' };
       }
       const collectionName = Object.keys(prevCollection)[0];
       const newObj = {
+        ...prevCollection,
         [collectionName]: [...prevCollection[collectionName], obj],
       }
       return newObj;
@@ -76,8 +79,8 @@ export const MyProvider = ({ children }) => {
     setMyCollections((prevCollections) => [...prevCollections, { collection_name: collectionName, tombs: [] }]);
   };
 
-  const saveCollection = (collectionObj) => {
-    setMyCollections((prevCollections) => [...prevCollections, collectionObj]);
+  const saveCollection = () => {
+    setMyCollections((prevCollections) => [...prevCollections, collection]);
   };
 
   const removeCollection = (collectionName) => {

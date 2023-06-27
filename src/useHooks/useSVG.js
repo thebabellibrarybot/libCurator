@@ -40,17 +40,17 @@ const SVG = (props) => {
     }
     if (type === 'savecollection') {
         return (
-            <FaBookMedical className='icon savecollection'></FaBookMedical>
+            <FaBookMedical className='icon add'></FaBookMedical>
         )
     }
     if (type === 'deletecollection') {
         return (
-            <FaBookDead className='icon deletecollection'></FaBookDead>
+            <FaBookDead className='icon sub'></FaBookDead>
         )
     }
     if (type === 'newcollection') {
         return (
-            <FaBook className='icon newcollection'></FaBook>
+            <FaBook className='icon new'></FaBook>
         )
     }
 }

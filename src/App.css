@@ -89,3 +89,30 @@
 .sub:hover {
   fill: #ff0000;
 }
+.new {
+  fill: #869b00;
+}
+.new :hover {
+  fill: #ffff00;
+}
+
+/* circle */
+.switch {
+  display: flex;
+}
+.circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.circle-active {
+  background-color: rgb(0, 204, 255);
+  border: 2px solid rgb(47, 47, 47);
+}
+.circle-inactive {
+  background-color: rgb(168, 168, 168);
+  border: 2px solid rgb(47, 47, 47);
+}

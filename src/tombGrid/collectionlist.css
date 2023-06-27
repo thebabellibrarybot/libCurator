@@ -1,22 +1,29 @@
 .collection-list {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-    grid-gap: 20px; /* Adjust the gap between grid items as needed */
-    list-style: none;
+    display: flex;
+    flex-direction: column;
     padding: 0;
+    height: 100%; /* Set a fixed height for the parent container */
   }
   
-  .collection-item {
+  .collection-row {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
     background-color: #f1f1f1;
-    padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid black;
+    flex-grow: 1; /* Allow the collection rows to grow and fill up remaining space */
+    max-height: 10%;
   }
   
-  .collection-item h3 {
-    margin-top: 0;
+  .collection-row h3,
+  .collection-row p {
+    flex-basis: 25%; /* Set the initial width of the content columns */
   }
   
-  .collection-item p {
-    margin: 5px 0;
+  .collection-row:nth-child(even) {
+    background-color: rgba(219, 215, 144, 0.685);
   }
+  
   

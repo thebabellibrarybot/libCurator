@@ -1,10 +1,11 @@
 import { useMyContext } from "../provider/provider";
+import CollectionList from "../tombGrid/collectionList";
 
 const MyCollections = () => {
 
-    const { myCollections } = useMyContext();
+    const { myCollections, collection } = useMyContext();
 
-    console.log(myCollections, 'myCollections')
+    console.log(collection, 'collection')
 
     return (
         <div className="main main-bx">
@@ -14,7 +15,7 @@ const MyCollections = () => {
             </div>
         </div>
         <div className="main-body">
-            <p>tomb list</p>
+            <CollectionList tombs = {myCollections}/>
         </div>
     </div>
     )
