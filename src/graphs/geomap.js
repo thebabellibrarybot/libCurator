@@ -1,6 +1,5 @@
 import * as d3 from 'd3';
-import React, { useEffect, useRef, useState } from 'react';
-import CheckedPreview from './checkedPreview';
+import React, { useEffect, useRef } from 'react';
 
 const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
 
@@ -10,25 +9,17 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
   const jsonData = props;
   // Create data for circles:
   const markers = marks;
+  console.log("markers:", markers)
   // get heigh // width // start location from props
   const svgHeight = hw[0];
   const svgWidth = hw[1];
   const startlocation = startpoint;
   const myScale = scale;
-  // set checked items for dropdown
-  const [checked, setChecked] = useState(['select']);
-
 
 
   // updates with data
   useEffect(() => {
 
-    // handleclick function appends data to checked array
-    const handleClick = (d) => {
-      setChecked(prevData => [...prevData, { 
-        d
-        }]);
-    };
     // The svg
     const svg = d3.select(svgRef.current)
                   .attr("viewBox", [0, 0, 100, 150]) 
@@ -70,12 +61,19 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
         .style("opacity", .9);
     
     // Add circles:
+    
     g.selectAll("circle")
         .data(markers)
         .enter()
         .append("circle")
-        .attr("cx", function(d){ return projection([d.longitude, d.latitude])[0] })
-        .attr("cy", function(d){ return projection([d.longitude, d.latitude])[1] })
+        .attr("cx", function(d) {
+          var cx = projection([d.lng, d.lat])[0];
+          return cx;
+        }) 
+        .attr("cy", function(d) {
+          var cy = projection([d.lng, d.lat])[1];
+          return cy;
+        })
         .attr("r", 5)
         .style("fill", "69b3a2")
         .attr("stroke", "#69b3a2")
@@ -92,7 +90,7 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
         .on('mouseover', function(event, d) {
           // add text element show value on hover
           d3.select(this)
-          tooltip.html(`<h1>Addy: ${d.street}, ${d.citi}</h1><h2>counts: ${d.counts_locations},<br/>price sqft ${d.price_sqft}</h2>`)
+          tooltip.html(`<h1>Location: ${d.location}</h1><h2>counts: ${d.count}</h2>`)
             .style("visibility", "visible")
             .style("top", (event.pageY-10)+"px")
             .style("left",(event.pageX+10)+"px");
@@ -102,11 +100,7 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
           d3.select(this) 
           tooltip.style("visibility", "hidden");
         })
-        // add to checked data
-        .on('click', (event, d) => {
-          d3.select(this)
-          handleClick(d)
-        })
+        
     
   }, [jsonData, markers, startlocation]);
 
@@ -114,9 +108,6 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
     <div className='geo-svg'>
       <svg ref={svgRef} width={svgWidth} height={svgHeight}></svg>
       <div ref={tooltipRef}></div>
-      <div className='logger'>
-        {viewer ? <CheckedPreview props = {checked.length >= 1 ? checked : 'nada'} className = {checked.length >= 1 ? 'cool' : 'invisisble'}/> : null}
-      </div>
     </div>
   );
 };

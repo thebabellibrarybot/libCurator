@@ -1,1773 +1,2785 @@
 [
     {
-        "tomb_id": "b1",
-        "tomb_type": "Chapelet de virginit\u00e9",
-        "tomb_location": "France",
-        "tomb_date": "1475",
-        "numpages": 6
-    },
-    {
-        "tomb_id": "b12",
-        "tomb_type": "Kalendarium cum tabulis planetarum et eclipsum",
-        "tomb_location": "England",
-        "tomb_date": "1425",
-        "numpages": 42
-    },
-    {
-        "tomb_id": "b15",
-        "tomb_type": "La pratica de mesurar le terre",
-        "tomb_location": "Italy",
-        "tomb_date": "1500",
-        "numpages": 66
-    },
-    {
-        "tomb_id": "b17",
-        "tomb_type": "Liber ruralium commodorum",
-        "tomb_location": "England",
-        "tomb_date": "1400",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "b19",
-        "tomb_type": "Cuoco napolitano",
-        "tomb_location": "Italy",
-        "tomb_date": "1400",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "b20",
-        "tomb_type": "Literalis expositio super Apocalypsim / Fredericus de Venetiis",
-        "tomb_location": "Italy",
-        "tomb_date": "1456",
-        "numpages": 4
-    },
-    {
-        "tomb_id": "b21",
-        "tomb_type": "Medical miscellanyEngland/ ",
-        "tomb_location": "East Anglia",
-        "tomb_date": "1400",
-        "numpages": 28
-    },
-    {
-        "tomb_id": "b22",
-        "tomb_type": "Vie de Sainte MargueriteNorthern ",
-        "tomb_location": "France",
-        "tomb_date": "1460",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "b25",
-        "tomb_type": "Laude spiritualiNorthern ",
-        "tomb_location": "Italy",
-        "tomb_date": "1450",
-        "numpages": 7
-    },
-    {
-        "tomb_id": "b27",
-        "tomb_type": "Medical and astronomical texts",
-        "tomb_location": "Germany",
-        "tomb_date": "1450",
-        "numpages": 17
-    },
-    {
-        "tomb_id": "b28",
-        "tomb_type": "Calendar and astronomical texts",
-        "tomb_location": "Germany",
-        "tomb_date": "1458",
-        "numpages": 35
-    },
-    {
-        "tomb_id": "b30",
-        "tomb_type": "Genealogical chronicle roll of the kings of ",
-        "tomb_location": "England",
-        "tomb_date": "1465",
-        "numpages": 4
-    },
-    {
-        "tomb_id": "b32",
-        "tomb_type": "Devotional miscellany",
-        "tomb_location": "Spain",
-        "tomb_date": "1461",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "b38",
-        "tomb_type": "De re uxoria",
-        "tomb_location": "Italy",
-        "tomb_date": "1430",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "b52",
-        "tomb_type": "Sermones de sanctis",
-        "tomb_location": "Italy",
-        "tomb_date": "1400",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "77178v_0002",
-        "tomb_type": "Arma Christi",
-        "tomb_location": "England",
-        "tomb_date": "1400",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "77178v_0003",
-        "tomb_type": "Arma Christi",
-        "tomb_location": "England",
-        "tomb_date": "1400",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "b60",
-        "tomb_type": "R\u00e9gime du corps",
-        "tomb_location": "Italy",
-        "tomb_date": "1430",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "g1",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1475",
-        "numpages": 96
-    },
-    {
-        "tomb_id": "g2",
-        "tomb_type": "Psalter",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "g3",
-        "tomb_type": "Antiphonary",
-        "tomb_location": "France",
-        "tomb_date": "1400",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g4",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1400",
-        "numpages": 71
-    },
-    {
-        "tomb_id": "g5",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1500",
-        "numpages": 13
-    },
-    {
-        "tomb_id": "g6",
-        "tomb_type": "Homiliae in Ezechielem",
-        "tomb_location": "France",
-        "tomb_date": "1110",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "g9",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "England",
-        "tomb_date": "1440",
-        "numpages": 18
-    },
-    {
-        "tomb_id": "g10",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1490",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g13",
-        "tomb_type": "Breviary",
-        "tomb_location": "Germany",
-        "tomb_date": "1477",
-        "numpages": 17
-    },
-    {
-        "tomb_id": "g14",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1470",
-        "numpages": 43
-    },
-    {
-        "tomb_id": "g16",
-        "tomb_type": "Missal",
-        "tomb_location": "Italy",
-        "tomb_date": "1300",
-        "numpages": 120
-    },
-    {
-        "tomb_id": "g17",
-        "tomb_type": "Missal",
-        "tomb_location": "France",
-        "tomb_date": "1100",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "g18",
-        "tomb_type": "Bible",
-        "tomb_location": "England",
-        "tomb_date": "1240",
-        "numpages": 20
-    },
-    {
-        "tomb_id": "g22",
-        "tomb_type": "Tusculanarum disputationum",
-        "tomb_location": "Italy",
-        "tomb_date": "1460",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g23",
-        "tomb_type": "Literary",
-        "tomb_location": "France",
-        "tomb_date": "1474",
-        "numpages": 49
-    },
-    {
-        "tomb_id": "g25",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1225",
-        "numpages": 16
-    },
-    {
-        "tomb_id": "g27",
-        "tomb_type": "Sacramentary",
-        "tomb_location": "Switzerland",
-        "tomb_date": "undefined",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g31",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1250",
-        "numpages": 77
-    },
-    {
-        "tomb_id": "g32",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "Belgium",
-        "tomb_date": "1390",
-        "numpages": 61
-    },
-    {
-        "tomb_id": "g35",
-        "tomb_type": "Cas des nobles hommes et femmes malheureux",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 9
-    },
-    {
-        "tomb_id": "g36",
-        "tomb_type": "Libro degli uomini famosi",
-        "tomb_location": "Italy",
-        "tomb_date": "1405",
-        "numpages": 45
-    },
-    {
-        "tomb_id": "g37",
-        "tomb_type": "Two miniatures/ possibly from a decretals",
-        "tomb_location": "France",
-        "tomb_date": "1230",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "g38",
-        "tomb_type": "Initial: Jerome/ Epistle to Paulinus/Bologna/ ",
-        "tomb_location": "Italy",
-        "tomb_date": "1270",
-        "numpages": 92
-    },
-    {
-        "tomb_id": "g39",
-        "tomb_type": "Prayer roll",
-        "tomb_location": "England",
-        "tomb_date": "1500",
-        "numpages": 19
-    },
-    {
-        "tomb_id": "g40",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "800",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g41",
-        "tomb_type": "Comoediae",
-        "tomb_location": "Italy",
-        "tomb_date": "1480",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g42",
-        "tomb_type": "Bible",
-        "tomb_location": "England",
-        "tomb_date": "1265",
-        "numpages": 86
-    },
-    {
-        "tomb_id": "g43",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1180",
-        "numpages": 50
-    },
-    {
-        "tomb_id": "g44",
-        "tomb_type": "Lectionary",
-        "tomb_location": "Austria",
-        "tomb_date": "1050",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "g46",
-        "tomb_type": "Manuscript single leaf with miniature",
-        "tomb_location": "Belgium",
-        "tomb_date": "1510",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g47",
-        "tomb_type": "Doctor\u2019s folding almanac",
-        "tomb_location": "England",
-        "tomb_date": "1464",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "g50",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "England",
-        "tomb_date": "1316",
-        "numpages": 29
-    },
-    {
-        "tomb_id": "g52",
-        "tomb_type": "Jeu des \u00e9checs moralis\u00e9",
-        "tomb_location": "France",
-        "tomb_date": "1350",
-        "numpages": 29
-    },
-    {
-        "tomb_id": "g53",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1310",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "g57",
-        "tomb_type": "Sacramentary",
-        "tomb_location": "France",
-        "tomb_date": "undefined",
-        "numpages": 9
-    },
-    {
-        "tomb_id": "g59",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1300",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "g60",
-        "tomb_type": "Bible",
-        "tomb_location": "Italy",
-        "tomb_date": "1300",
-        "numpages": 80
-    },
-    {
-        "tomb_id": "g61",
-        "tomb_type": "Facta et dicta memorabilia / Valerius Maximus",
-        "tomb_location": "Italy",
-        "tomb_date": "1440",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "g62",
-        "tomb_type": "Psalter",
-        "tomb_location": "Italy",
-        "tomb_date": "1000",
-        "numpages": 5
-    },
-    {
-        "tomb_id": "g64",
-        "tomb_type": "Bible",
-        "tomb_location": "Belgium",
-        "tomb_date": "1270",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "g65",
-        "tomb_type": "De officiis",
-        "tomb_location": "England",
-        "tomb_date": "1150",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "g67",
-        "tomb_type": "Acts of the Apostles",
-        "tomb_location": "Egypt",
-        "tomb_date": "400",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "g73",
-        "tomb_type": "Psalter",
-        "tomb_location": "Germany",
-        "tomb_date": "1250",
-        "numpages": 32
-    },
-    {
-        "tomb_id": "g74",
-        "tomb_type": "De balneis Puteolanis",
-        "tomb_location": "Italy",
-        "tomb_date": "1400",
-        "numpages": 37
-    },
-    {
-        "tomb_id": "g75",
-        "tomb_type": "Breviary",
-        "tomb_location": "Italy",
-        "tomb_date": "1300",
-        "numpages": 26
-    },
-    {
-        "tomb_id": "h1",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 21
-    },
-    {
-        "tomb_id": "h2",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1488",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "h3",
-        "tomb_type": "Prayer book",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 152
-    },
-    {
-        "tomb_id": "h4",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1450",
-        "numpages": 6
-    },
-    {
-        "tomb_id": "h5",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 286
-    },
-    {
-        "tomb_id": "h7",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 39
-    },
-    {
-        "tomb_id": "m2",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1400",
-        "numpages": 28
-    },
-    {
-        "tomb_id": "m3",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1400",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m4",
-        "tomb_type": "Literary",
-        "tomb_location": "England",
-        "tomb_date": "1450",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m5",
-        "tomb_type": "Lectionary",
-        "tomb_location": "Belgium",
-        "tomb_date": "1500",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m6",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 67
-    },
-    {
-        "tomb_id": "m7",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 169
-    },
-    {
-        "tomb_id": "m8",
-        "tomb_type": "Breviary",
-        "tomb_location": "France",
-        "tomb_date": "1511",
-        "numpages": 119
-    },
-    {
-        "tomb_id": "m9",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 13
-    },
-    {
-        "tomb_id": "m11",
-        "tomb_type": "Bible",
-        "tomb_location": "Germany",
-        "tomb_date": "1109",
-        "numpages": 6
-    },
-    {
-        "tomb_id": "m12",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 88
-    },
-    {
-        "tomb_id": "m13",
-        "tomb_type": "Little office of the Virgin",
-        "tomb_location": "France",
-        "tomb_date": "1650",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "m14",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1490",
-        "numpages": 35
-    },
-    {
-        "tomb_id": "m16",
-        "tomb_type": "Noms/ armes et blasons des chevaliers de la Table Ronde",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 121
-    },
-    {
-        "tomb_id": "m17",
-        "tomb_type": "Opuscula / Saint Augustine/ Sermones / Saint Caesarius Arelatensis (Saint Hilary/ Archbishop of Arles)/ Sententiae ; Epistola / Saint Jerome/ Monita / Saint Paphnutius",
-        "tomb_location": "France",
-        "tomb_date": "undefined",
-        "numpages": 5
-    },
-    {
-        "tomb_id": "m19",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1440",
-        "numpages": 18
-    },
-    {
-        "tomb_id": "m20",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 4
-    },
-    {
-        "tomb_id": "m21",
-        "tomb_type": "La ve\u0301rite\u0301 a\u0300 la place des ombres",
-        "tomb_location": "France",
-        "tomb_date": "1679",
-        "numpages": 113
-    },
-    {
-        "tomb_id": "m25",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1460",
-        "numpages": 19
-    },
-    {
-        "tomb_id": "m26",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1485",
-        "numpages": 31
-    },
-    {
-        "tomb_id": "m27",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1420",
-        "numpages": 75
-    },
-    {
-        "tomb_id": "m28",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 121
-    },
-    {
-        "tomb_id": "m29",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "France",
-        "tomb_date": "1460",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m30",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m31",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m32",
-        "tomb_type": "Book of hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m34",
-        "tomb_type": "Psalter",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1290",
-        "numpages": 16
-    },
-    {
-        "tomb_id": "m38",
-        "tomb_type": "Histoire du Saint-Grail",
-        "tomb_location": "Belgium",
-        "tomb_date": "1479",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "m40",
-        "tomb_type": "Roman du lis",
-        "tomb_location": "France",
-        "tomb_date": "1350",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m41",
-        "tomb_type": "Roman de Tristan",
-        "tomb_location": "France",
-        "tomb_date": "1468",
-        "numpages": 78
-    },
-    {
-        "tomb_id": "m43",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1212",
-        "numpages": 63
-    },
-    {
-        "tomb_id": "m44",
-        "tomb_type": "Vita Christi (Life of Christ)",
-        "tomb_location": "France",
-        "tomb_date": "1175",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m45a",
-        "tomb_type": "The Crucifixion and St/ Leonard",
-        "tomb_location": "Germany",
-        "tomb_date": "1457",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m45e",
-        "tomb_type": "The Crucifixion and St/ Leonard",
-        "tomb_location": "Germany",
-        "tomb_date": "1457",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m46",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1420",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m48",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "France",
-        "tomb_date": "1340",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m52",
-        "tomb_type": "Breviary",
-        "tomb_location": "Belgium",
-        "tomb_date": "1500",
-        "numpages": 92
-    },
-    {
-        "tomb_id": "m55",
-        "tomb_type": "Vita et miraculae sancti Benedicti",
-        "tomb_location": "Austria",
-        "tomb_date": "1300",
-        "numpages": 21
-    },
-    {
-        "tomb_id": "m56",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1450",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m60",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1300",
-        "numpages": 34
-    },
-    {
-        "tomb_id": "m61",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1525",
-        "numpages": 47
-    },
-    {
-        "tomb_id": "m61a",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1400",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m64",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1430",
-        "numpages": 47
-    },
-    {
-        "tomb_id": "m65",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1225",
-        "numpages": 77
-    },
-    {
-        "tomb_id": "m66",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1225",
-        "numpages": 75
-    },
-    {
-        "tomb_id": "m67",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "France",
-        "tomb_date": "1455",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m68",
-        "tomb_type": "Lectionary",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 69
-    },
-    {
-        "tomb_id": "m71",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1460",
-        "numpages": 4
-    },
-    {
-        "tomb_id": "m72",
-        "tomb_type": "Psalter",
-        "tomb_location": "Belgium",
-        "tomb_date": "1270",
-        "numpages": 37
-    },
-    {
-        "tomb_id": "m73",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 26
-    },
-    {
-        "tomb_id": "m74",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1520",
-        "numpages": 64
-    },
-    {
-        "tomb_id": "m75",
-        "tomb_type": "Breviary",
-        "tomb_location": "France",
-        "tomb_date": "1350",
-        "numpages": 84
-    },
-    {
-        "tomb_id": "m76",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1420",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m77",
-        "tomb_type": "Evangeliary",
-        "tomb_location": "Germany",
-        "tomb_date": "1430",
-        "numpages": 11
-    },
-    {
-        "tomb_id": "m78",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1450",
-        "numpages": 18
-    },
-    {
-        "tomb_id": "m79",
-        "tomb_type": "Psalter",
-        "tomb_location": "France",
-        "tomb_date": "1200",
-        "numpages": 93
-    },
-    {
-        "tomb_id": "m80",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1450",
-        "numpages": 74
-    },
-    {
-        "tomb_id": "m82",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1440",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m83",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1485",
-        "numpages": 35
-    },
-    {
-        "tomb_id": "m84",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1465",
-        "numpages": 31
-    },
-    {
-        "tomb_id": "m85",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1510",
-        "numpages": 47
-    },
-    {
-        "tomb_id": "m86",
-        "tomb_type": "Single leaf",
-        "tomb_location": "Spain",
-        "tomb_date": "1740",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m87",
-        "tomb_type": "Egmont breviary",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1440",
-        "numpages": 342
-    },
-    {
-        "tomb_id": "m88",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "France",
-        "tomb_date": "1370",
-        "numpages": 35
-    },
-    {
-        "tomb_id": "m89",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m90",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1375",
-        "numpages": 23
-    },
-    {
-        "tomb_id": "m91",
-        "tomb_type": "Epistle lectionary",
-        "tomb_location": "Switzerland",
-        "tomb_date": "undefined",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m92",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1230",
-        "numpages": 64
-    },
-    {
-        "tomb_id": "m93",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 24
-    },
-    {
-        "tomb_id": "m94",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "Germany",
-        "tomb_date": "1250",
-        "numpages": 17
-    },
-    {
-        "tomb_id": "m95",
-        "tomb_type": "MissalNorthern ",
-        "tomb_location": "Italy",
-        "tomb_date": "1461",
-        "numpages": 18
-    },
-    {
-        "tomb_id": "m97",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "France",
-        "tomb_date": "1265",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m98",
-        "tomb_type": "Psalter",
-        "tomb_location": "France",
-        "tomb_date": "1275",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m99",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "England",
-        "tomb_date": "1405",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "m100",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1290",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m101",
-        "tomb_type": "Psalter",
-        "tomb_location": "France",
-        "tomb_date": "undefined",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m102",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1200",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m103",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1250",
-        "numpages": 17
-    },
-    {
-        "tomb_id": "m104",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1450",
-        "numpages": 11
-    },
-    {
-        "tomb_id": "m105",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1420",
-        "numpages": 97
-    },
-    {
-        "tomb_id": "m106",
-        "tomb_type": "Psalter",
-        "tomb_location": "Belgium",
-        "tomb_date": "1256",
-        "numpages": 31
-    },
-    {
-        "tomb_id": "m107",
-        "tomb_type": "Missal",
-        "tomb_location": "England",
-        "tomb_date": "1320",
-        "numpages": 449
-    },
-    {
-        "tomb_id": "m108",
-        "tomb_type": "Bonus socius",
-        "tomb_location": "France",
-        "tomb_date": "1300",
-        "numpages": 24
-    },
-    {
-        "tomb_id": "m109",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 13
-    },
-    {
-        "tomb_id": "m110",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 30
-    },
-    {
-        "tomb_id": "m111",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 43
-    },
-    {
-        "tomb_id": "m113",
-        "tomb_type": "Psalter",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1200",
-        "numpages": 43
-    },
-    {
-        "tomb_id": "m114",
-        "tomb_type": "Psalter",
-        "tomb_location": "Germany",
-        "tomb_date": "1300",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m115",
-        "tomb_type": "Gradual",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 6
-    },
-    {
-        "tomb_id": "m116",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1490",
-        "numpages": 37
-    },
-    {
-        "tomb_id": "m117",
-        "tomb_type": "Book of HoursBrittany/ ",
-        "tomb_location": "France",
-        "tomb_date": "1440",
-        "numpages": 57
-    },
-    {
-        "tomb_id": "m118",
-        "tomb_type": "De historia plantarum et De causis plantarum",
-        "tomb_location": "Italy",
-        "tomb_date": "1523",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m119",
-        "tomb_type": "L\u2019histoire de Jason",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m120",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "France",
-        "tomb_date": "1370",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m124",
-        "tomb_type": "Literary",
-        "tomb_location": "England",
-        "tomb_date": "1460",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "m125",
-        "tomb_type": "Literary",
-        "tomb_location": "England",
-        "tomb_date": "1425",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m126",
-        "tomb_type": "Literary",
-        "tomb_location": "England",
-        "tomb_date": "1470",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m130",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 19
-    },
-    {
-        "tomb_id": "m131",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 38
-    },
-    {
-        "tomb_id": "m132",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "France",
-        "tomb_date": "1380",
-        "numpages": 67
-    },
-    {
-        "tomb_id": "m136",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m137",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m138",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 78
-    },
-    {
-        "tomb_id": "m139",
-        "tomb_type": "De re rustica",
-        "tomb_location": "Italy",
-        "tomb_date": "1469",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m140",
-        "tomb_type": "Speculum humanae salvationis",
-        "tomb_location": "Germany",
-        "tomb_date": "1350",
-        "numpages": 96
-    },
-    {
-        "tomb_id": "m141",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1390",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m144",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 40
-    },
-    {
-        "tomb_id": "m146",
-        "tomb_type": "Missal",
-        "tomb_location": "France",
-        "tomb_date": "1427",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m147",
-        "tomb_type": "Poe\u0300me sur la Passion",
-        "tomb_location": "France",
-        "tomb_date": "1530",
-        "numpages": 43
-    },
-    {
-        "tomb_id": "m151",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 25
-    },
-    {
-        "tomb_id": "m152",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 9
-    },
-    {
-        "tomb_id": "m153",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "France",
-        "tomb_date": "1228",
-        "numpages": 46
-    },
-    {
-        "tomb_id": "m154",
-        "tomb_type": "Manuale Augustini",
-        "tomb_location": "Italy",
-        "tomb_date": "1462",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m155",
-        "tomb_type": "Psalter",
-        "tomb_location": "Belgium",
-        "tomb_date": "1290",
-        "numpages": 137
-    },
-    {
-        "tomb_id": "m156",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1500",
-        "numpages": 46
-    },
-    {
-        "tomb_id": "m157",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1440",
-        "numpages": 72
-    },
-    {
-        "tomb_id": "m158",
-        "tomb_type": "Compilatio historiarum / Giovanni/ da Udine",
-        "tomb_location": "Switzerland",
-        "tomb_date": "1476",
-        "numpages": 102
-    },
-    {
-        "tomb_id": "m159",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 7
-    },
-    {
-        "tomb_id": "m160",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m161",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1465",
-        "numpages": 10
-    },
-    {
-        "tomb_id": "m163",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1229",
-        "numpages": 72
-    },
-    {
-        "tomb_id": "m164",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1420",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "m165",
-        "tomb_type": "Re\u0301gime du corps",
-        "tomb_location": "France",
-        "tomb_date": "1440",
-        "numpages": 107
-    },
-    {
-        "tomb_id": "m166",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Netherlands",
-        "tomb_date": "1500",
-        "numpages": 31
-    },
-    {
-        "tomb_id": "m167",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 16
-    },
-    {
-        "tomb_id": "m168",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1450",
-        "numpages": 5
-    },
-    {
-        "tomb_id": "m169",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 13
-    },
-    {
-        "tomb_id": "m170",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 26
-    },
-    {
-        "tomb_id": "m171",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "1480",
-        "numpages": 27
-    },
-    {
-        "tomb_id": "m172",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m173",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1430",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m174",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 38
-    },
-    {
-        "tomb_id": "m175",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 70
-    },
-    {
-        "tomb_id": "m176",
-        "tomb_type": "Psalter",
-        "tomb_location": "France",
-        "tomb_date": "1380",
-        "numpages": 5
-    },
-    {
-        "tomb_id": "m177",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1260",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m178",
-        "tomb_type": "Bible",
-        "tomb_location": "Italy",
-        "tomb_date": "1250",
-        "numpages": 49
-    },
-    {
-        "tomb_id": "m179",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 55
-    },
-    {
-        "tomb_id": "m182",
-        "tomb_type": "La di\u00e8te de salut",
-        "tomb_location": "France",
-        "tomb_date": "1490",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m183",
-        "tomb_type": "Psalter-Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "undefined",
-        "numpages": 315
-    },
-    {
-        "tomb_id": "m184",
-        "tomb_type": "Vita S/ Benedicti",
-        "tomb_location": "Italy",
-        "tomb_date": "1450",
-        "numpages": 79
-    },
-    {
-        "tomb_id": "m185",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "France",
-        "tomb_date": "1340",
-        "numpages": 32
-    },
-    {
-        "tomb_id": "m187",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1480",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m188",
-        "tomb_type": "La forma el modo come se debbeno ordinare e disporre quelle persone che deno andare a confortare e aconsolare le persone iudicate a morte",
-        "tomb_location": "Italy",
-        "tomb_date": "1470",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m189",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 39
-    },
-    {
-        "tomb_id": "m190",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1450",
-        "numpages": 7
-    },
-    {
-        "tomb_id": "m191",
-        "tomb_type": "Gospel Book",
-        "tomb_location": "France",
-        "tomb_date": "undefined",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m192",
-        "tomb_type": "Compilatio historiarum totius Bibliae et historiarum scholasticarum",
-        "tomb_location": "Austria",
-        "tomb_date": "1420",
-        "numpages": 23
-    },
-    {
-        "tomb_id": "m193",
-        "tomb_type": "Bible",
-        "tomb_location": "France",
-        "tomb_date": "1250",
-        "numpages": 111
-    },
-    {
-        "tomb_id": "m194",
-        "tomb_type": "Book of HoursNorthern ",
-        "tomb_location": "France",
-        "tomb_date": "1460",
-        "numpages": 40
-    },
-    {
-        "tomb_id": "m195",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1485",
-        "numpages": 52
-    },
-    {
-        "tomb_id": "m196",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1470",
-        "numpages": 21
-    },
-    {
-        "tomb_id": "m197",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 41
-    },
-    {
-        "tomb_id": "m198",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1480",
-        "numpages": 38
-    },
-    {
-        "tomb_id": "m199",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1460",
-        "numpages": 34
-    },
-    {
-        "tomb_id": "m200",
-        "tomb_type": "Breviary",
-        "tomb_location": "Italy",
-        "tomb_date": "1350",
-        "numpages": 113
-    },
-    {
-        "tomb_id": "m201",
-        "tomb_type": "Missal",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 18
-    },
-    {
-        "tomb_id": "m202",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1440",
-        "numpages": 37
-    },
-    {
-        "tomb_id": "m207",
-        "tomb_type": "Roman du Saint Graal / Merlin",
-        "tomb_location": "France",
-        "tomb_date": "1450",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m208",
-        "tomb_type": "Roman du Saint Graal / Merlin",
-        "tomb_location": "France",
-        "tomb_date": "1450",
-        "numpages": 17
-    },
-    {
-        "tomb_id": "m209",
-        "tomb_type": "Breviary",
-        "tomb_location": "Italy",
-        "tomb_date": "1460",
-        "numpages": 7
-    },
-    {
-        "tomb_id": "m210",
-        "tomb_type": "Breviary",
-        "tomb_location": "Italy",
-        "tomb_date": "1460",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m212",
-        "tomb_type": "Histoire ancienne jusqu\u2019\u00e0 C\u00e9sar",
-        "tomb_location": "Belgium",
-        "tomb_date": "1460",
-        "numpages": 32
-    },
-    {
-        "tomb_id": "m213",
-        "tomb_type": "Faits des RomainsNorthern France or ",
-        "tomb_location": "Belgium",
-        "tomb_date": "1460",
-        "numpages": 43
-    },
-    {
-        "tomb_id": "m214",
-        "tomb_type": "Chronique universelleText and foliate borders: France/ probably Rouen/ ca/ 1460//Six large miniatures: Bruges/ ",
-        "tomb_location": "Belgium",
-        "tomb_date": "1460",
-        "numpages": 16
-    },
-    {
-        "tomb_id": "m224",
-        "tomb_type": "Chronique universelleText and foliate borders: France/ probably Rouen/ ca/ 1460//Six large miniatures: Bruges/ ",
-        "tomb_location": "Belgium",
-        "tomb_date": "1460",
-        "numpages": 7
-    },
-    {
-        "tomb_id": "m215",
-        "tomb_type": "Bible",
-        "tomb_location": "Italy",
-        "tomb_date": "1320",
-        "numpages": 71
-    },
-    {
-        "tomb_id": "m218",
-        "tomb_type": "Trente psaumes",
-        "tomb_location": "France",
-        "tomb_date": "1540",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m219",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 13
-    },
-    {
-        "tomb_id": "m220",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1500",
-        "numpages": 14
-    },
-    {
-        "tomb_id": "m222",
-        "tomb_type": "Literary",
-        "tomb_location": "France",
-        "tomb_date": "1465",
-        "numpages": 6
-    },
-    {
-        "tomb_id": "m223",
-        "tomb_type": "Bucolica and other works",
-        "tomb_location": "Italy",
-        "tomb_date": "1455",
-        "numpages": 1
-    },
-    {
-        "tomb_id": "m226",
-        "tomb_type": "Vita Christi (Life of Christ)",
-        "tomb_location": "England",
-        "tomb_date": "1450",
-        "numpages": 3
-    },
-    {
-        "tomb_id": "m227",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Italy",
-        "tomb_date": "1461",
-        "numpages": 4
-    },
-    {
-        "tomb_id": "m229",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1375",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m230",
-        "tomb_type": "Bible",
-        "tomb_location": "Austria",
-        "tomb_date": "1435",
-        "numpages": 48
-    },
-    {
-        "tomb_id": "m231",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1485",
-        "numpages": 42
-    },
-    {
-        "tomb_id": "m232",
-        "tomb_type": "Literary",
-        "tomb_location": "Belgium",
-        "tomb_date": "1470",
-        "numpages": 12
-    },
-    {
-        "tomb_id": "m234",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "Belgium",
-        "tomb_date": "undefined",
-        "numpages": 41
-    },
-    {
-        "tomb_id": "m235",
-        "tomb_type": "Bible",
-        "tomb_location": "Syria",
-        "tomb_date": "1212",
-        "numpages": 15
-    },
-    {
-        "tomb_id": "m237",
-        "tomb_type": "Psalter",
-        "tomb_location": "England",
-        "tomb_date": "1400",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "m238",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "England",
-        "tomb_date": "1480",
-        "numpages": 11
-    },
-    {
-        "tomb_id": "m240",
-        "tomb_type": "Moralized Bible",
-        "tomb_location": "France",
-        "tomb_date": "1227",
-        "numpages": 8
-    },
-    {
-        "tomb_id": "m241",
-        "tomb_type": "Book of Hours",
-        "tomb_location": "France",
-        "tomb_date": "1435",
-        "numpages": 23
-    },
-    {
-        "tomb_id": "m242",
-        "tomb_type": "Heptameron",
-        "tomb_location": "France",
-        "tomb_date": "1560",
-        "numpages": 2
-    },
-    {
-        "tomb_id": "m245",
-        "tomb_type": "Roman de la Rose",
-        "tomb_location": "France",
-        "tomb_date": "1405",
-        "numpages": 31
+      "tomb_id": "b1",
+      "tomb_type": "Chapelet de virginité",
+      "tomb_location": "France",
+      "tomb_date": "1475",
+      "numpages": 6,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "b12",
+      "tomb_type": "Kalendarium cum tabulis planetarum et eclipsum",
+      "tomb_location": "England",
+      "tomb_date": "1425",
+      "numpages": 42,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "b15",
+      "tomb_type": "La pratica de mesurar le terre",
+      "tomb_location": "Italy",
+      "tomb_date": "1500",
+      "numpages": 66,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "b17",
+      "tomb_type": "Liber ruralium commodorum",
+      "tomb_location": "England",
+      "tomb_date": "1400",
+      "numpages": 2,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "b19",
+      "tomb_type": "Cuoco napolitano",
+      "tomb_location": "Italy",
+      "tomb_date": "1400",
+      "numpages": 12,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "b20",
+      "tomb_type": "Literalis expositio super Apocalypsim / Fredericus de Venetiis",
+      "tomb_location": "Italy",
+      "tomb_date": "1456",
+      "numpages": 4,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "b21",
+      "tomb_type": "Medical miscellanyEngland/ ",
+      "tomb_location": "East Anglia",
+      "tomb_date": "1400",
+      "numpages": 28,
+      "coords": {
+        "lat": 52.6316,
+        "lng": 1.2983
+      }
+    },
+    {
+      "tomb_id": "b22",
+      "tomb_type": "Vie de Sainte MargueriteNorthern ",
+      "tomb_location": "France",
+      "tomb_date": "1460",
+      "numpages": 2,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "b25",
+      "tomb_type": "Laude spiritualiNorthern ",
+      "tomb_location": "Italy",
+      "tomb_date": "1450",
+      "numpages": 7,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "b27",
+      "tomb_type": "Medical and astronomical texts",
+      "tomb_location": "Germany",
+      "tomb_date": "1450",
+      "numpages": 17,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "b28",
+      "tomb_type": "Calendar and astronomical texts",
+      "tomb_location": "Germany",
+      "tomb_date": "1458",
+      "numpages": 35,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "b30",
+      "tomb_type": "Genealogical chronicle roll of the kings of ",
+      "tomb_location": "England",
+      "tomb_date": "1465",
+      "numpages": 4,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "b32",
+      "tomb_type": "Devotional miscellany",
+      "tomb_location": "Spain",
+      "tomb_date": "1461",
+      "numpages": 1,
+      "coords": {
+        "lat": 40.4637,
+        "lng": -3.7492
+      }
+    },
+    {
+      "tomb_id": "b38",
+      "tomb_type": "De re uxoria",
+      "tomb_location": "Italy",
+      "tomb_date": "1430",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "b52",
+      "tomb_type": "Sermones de sanctis",
+      "tomb_location": "Italy",
+      "tomb_date": "1400",
+      "numpages": 2,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "77178v_0002",
+      "tomb_type": "Arma Christi",
+      "tomb_location": "England",
+      "tomb_date": "1400",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "77178v_0003",
+      "tomb_type": "Arma Christi",
+      "tomb_location": "England",
+      "tomb_date": "1400",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "b60",
+      "tomb_type": "Régime du corps",
+      "tomb_location": "Italy",
+      "tomb_date": "1430",
+      "numpages": 2,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g1",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1475",
+      "numpages": 96,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g2",
+      "tomb_type": "Psalter",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 10,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g3",
+      "tomb_type": "Antiphonary",
+      "tomb_location": "France",
+      "tomb_date": "1400",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g4",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1400",
+      "numpages": 71,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g5",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1500",
+      "numpages": 13,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "g6",
+      "tomb_type": "Homiliae in Ezechielem",
+      "tomb_location": "France",
+      "tomb_date": "1110",
+      "numpages": 10,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g9",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "England",
+      "tomb_date": "1440",
+      "numpages": 18,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g10",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1490",
+      "numpages": 1,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "g13",
+      "tomb_type": "Breviary",
+      "tomb_location": "Germany",
+      "tomb_date": "1477",
+      "numpages": 17,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "g14",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1470",
+      "numpages": 43,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g16",
+      "tomb_type": "Missal",
+      "tomb_location": "Italy",
+      "tomb_date": "1300",
+      "numpages": 120,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g17",
+      "tomb_type": "Missal",
+      "tomb_location": "France",
+      "tomb_date": "1100",
+      "numpages": 2,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g18",
+      "tomb_type": "Bible",
+      "tomb_location": "England",
+      "tomb_date": "1240",
+      "numpages": 20,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g22",
+      "tomb_type": "Tusculanarum disputationum",
+      "tomb_location": "Italy",
+      "tomb_date": "1460",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g23",
+      "tomb_type": "Literary",
+      "tomb_location": "France",
+      "tomb_date": "1474",
+      "numpages": 49,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g25",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1225",
+      "numpages": 16,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g27",
+      "tomb_type": "Sacramentary",
+      "tomb_location": "Switzerland",
+      "tomb_date": "undefined",
+      "numpages": 1,
+      "coords": {
+        "lat": 46.8182,
+        "lng": 8.2275
+      }
+    },
+    {
+      "tomb_id": "g31",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1250",
+      "numpages": 77,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g32",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "Belgium",
+      "tomb_date": "1390",
+      "numpages": 61,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "g35",
+      "tomb_type": "Cas des nobles hommes et femmes malheureux",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 9,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g36",
+      "tomb_type": "Libro degli uomini famosi",
+      "tomb_location": "Italy",
+      "tomb_date": "1405",
+      "numpages": 45,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g37",
+      "tomb_type": "Two miniatures/ possibly from a decretals",
+      "tomb_location": "France",
+      "tomb_date": "1230",
+      "numpages": 2,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g38",
+      "tomb_type": "Initial: Jerome/ Epistle to Paulinus/Bologna/ ",
+      "tomb_location": "Italy",
+      "tomb_date": "1270",
+      "numpages": 92,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g39",
+      "tomb_type": "Prayer roll",
+      "tomb_location": "England",
+      "tomb_date": "1500",
+      "numpages": 19,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g40",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "800",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g41",
+      "tomb_type": "Comoediae",
+      "tomb_location": "Italy",
+      "tomb_date": "1480",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g42",
+      "tomb_type": "Bible",
+      "tomb_location": "England",
+      "tomb_date": "1265",
+      "numpages": 86,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g43",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1180",
+      "numpages": 50,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g44",
+      "tomb_type": "Lectionary",
+      "tomb_location": "Austria",
+      "tomb_date": "1050",
+      "numpages": 10,
+      "coords": {
+        "lat": 47.5162,
+        "lng": 14.5501
+      }
+    },
+    {
+      "tomb_id": "g46",
+      "tomb_type": "Manuscript single leaf with miniature",
+      "tomb_location": "Belgium",
+      "tomb_date": "1510",
+      "numpages": 1,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "g47",
+      "tomb_type": "Doctor’s folding almanac",
+      "tomb_location": "England",
+      "tomb_date": "1464",
+      "numpages": 12,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g50",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "England",
+      "tomb_date": "1316",
+      "numpages": 29,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g52",
+      "tomb_type": "Jeu des échecs moralisé",
+      "tomb_location": "France",
+      "tomb_date": "1350",
+      "numpages": 29,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g53",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1310",
+      "numpages": 15,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g57",
+      "tomb_type": "Sacramentary",
+      "tomb_location": "France",
+      "tomb_date": "undefined",
+      "numpages": 9,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g59",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1300",
+      "numpages": 10,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "g60",
+      "tomb_type": "Bible",
+      "tomb_location": "Italy",
+      "tomb_date": "1300",
+      "numpages": 80,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g61",
+      "tomb_type": "Facta et dicta memorabilia / Valerius Maximus",
+      "tomb_location": "Italy",
+      "tomb_date": "1440",
+      "numpages": 3,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g62",
+      "tomb_type": "Psalter",
+      "tomb_location": "Italy",
+      "tomb_date": "1000",
+      "numpages": 5,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g64",
+      "tomb_type": "Bible",
+      "tomb_location": "Belgium",
+      "tomb_date": "1270",
+      "numpages": 2,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "g65",
+      "tomb_type": "De officiis",
+      "tomb_location": "England",
+      "tomb_date": "1150",
+      "numpages": 3,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "g67",
+      "tomb_type": "Acts of the Apostles",
+      "tomb_location": "Egypt",
+      "tomb_date": "400",
+      "numpages": 1,
+      "coords": {
+        "lat": 26.8206,
+        "lng": 30.8025
+      }
+    },
+    {
+      "tomb_id": "g73",
+      "tomb_type": "Psalter",
+      "tomb_location": "Germany",
+      "tomb_date": "1250",
+      "numpages": 32,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "g74",
+      "tomb_type": "De balneis Puteolanis",
+      "tomb_location": "Italy",
+      "tomb_date": "1400",
+      "numpages": 37,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "g75",
+      "tomb_type": "Breviary",
+      "tomb_location": "Italy",
+      "tomb_date": "1300",
+      "numpages": 26,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "h1",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 21,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "h2",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1488",
+      "numpages": 10,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "h3",
+      "tomb_type": "Prayer book",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 152,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "h4",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1450",
+      "numpages": 6,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "h5",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 286,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "h7",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 39,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m2",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1400",
+      "numpages": 28,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m3",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1400",
+      "numpages": 30,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m4",
+      "tomb_type": "Literary",
+      "tomb_location": "England",
+      "tomb_date": "1450",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m5",
+      "tomb_type": "Lectionary",
+      "tomb_location": "Belgium",
+      "tomb_date": "1500",
+      "numpages": 12,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m6",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 67,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m7",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 169,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m8",
+      "tomb_type": "Breviary",
+      "tomb_location": "France",
+      "tomb_date": "1511",
+      "numpages": 119,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m9",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 13,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m11",
+      "tomb_type": "Bible",
+      "tomb_location": "Germany",
+      "tomb_date": "1109",
+      "numpages": 6,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m12",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 88,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m13",
+      "tomb_type": "Little office of the Virgin",
+      "tomb_location": "France",
+      "tomb_date": "1650",
+      "numpages": 3,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m14",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1490",
+      "numpages": 35,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m16",
+      "tomb_type": "Noms/ armes et blasons des chevaliers de la Table Ronde",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 121,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m17",
+      "tomb_type": "Opuscula / Saint Augustine/ Sermones / Saint Caesarius Arelatensis (Saint Hilary/ Archbishop of Arles)/ Sententiae ; Epistola / Saint Jerome/ Monita / Saint Paphnutius",
+      "tomb_location": "France",
+      "tomb_date": "undefined",
+      "numpages": 5,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m19",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1440",
+      "numpages": 18,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m20",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 4,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m21",
+      "tomb_type": "La vérité à la place des ombres",
+      "tomb_location": "France",
+      "tomb_date": "1679",
+      "numpages": 113,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m25",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1460",
+      "numpages": 19,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m26",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1485",
+      "numpages": 31,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m27",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1420",
+      "numpages": 75,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m28",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 121,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m29",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "France",
+      "tomb_date": "1460",
+      "numpages": 12,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m30",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 14,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m31",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 15,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m32",
+      "tomb_type": "Book of hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 27,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m34",
+      "tomb_type": "Psalter",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1290",
+      "numpages": 16,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m38",
+      "tomb_type": "Histoire du Saint-Grail",
+      "tomb_location": "Belgium",
+      "tomb_date": "1479",
+      "numpages": 2,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m40",
+      "tomb_type": "Roman du lis",
+      "tomb_location": "France",
+      "tomb_date": "1350",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m41",
+      "tomb_type": "Roman de Tristan",
+      "tomb_location": "France",
+      "tomb_date": "1468",
+      "numpages": 78,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m43",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1212",
+      "numpages": 63,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m44",
+      "tomb_type": "Vita Christi (Life of Christ)",
+      "tomb_location": "France",
+      "tomb_date": "1175",
+      "numpages": 30,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m45a",
+      "tomb_type": "The Crucifixion and St/ Leonard",
+      "tomb_location": "Germany",
+      "tomb_date": "1457",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m45e",
+      "tomb_type": "The Crucifixion and St/ Leonard",
+      "tomb_location": "Germany",
+      "tomb_date": "1457",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m46",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1420",
+      "numpages": 30,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m48",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "France",
+      "tomb_date": "1340",
+      "numpages": 30,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m52",
+      "tomb_type": "Breviary",
+      "tomb_location": "Belgium",
+      "tomb_date": "1500",
+      "numpages": 92,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m55",
+      "tomb_type": "Vita et miraculae sancti Benedicti",
+      "tomb_location": "Austria",
+      "tomb_date": "1300",
+      "numpages": 21,
+      "coords": {
+        "lat": 47.5162,
+        "lng": 14.5501
+      }
+    },
+    {
+      "tomb_id": "m56",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1450",
+      "numpages": 15,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m60",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1300",
+      "numpages": 34,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m61",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1525",
+      "numpages": 47,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m61a",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1400",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m64",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1430",
+      "numpages": 47,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m65",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1225",
+      "numpages": 77,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m66",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1225",
+      "numpages": 75,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m67",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "France",
+      "tomb_date": "1455",
+      "numpages": 15,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m68",
+      "tomb_type": "Lectionary",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 69,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m71",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1460",
+      "numpages": 4,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m72",
+      "tomb_type": "Psalter",
+      "tomb_location": "Belgium",
+      "tomb_date": "1270",
+      "numpages": 37,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m73",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 26,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m74",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1520",
+      "numpages": 64,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m75",
+      "tomb_type": "Breviary",
+      "tomb_location": "France",
+      "tomb_date": "1350",
+      "numpages": 84,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m76",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1420",
+      "numpages": 30,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m77",
+      "tomb_type": "Evangeliary",
+      "tomb_location": "Germany",
+      "tomb_date": "1430",
+      "numpages": 11,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m78",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1450",
+      "numpages": 18,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m79",
+      "tomb_type": "Psalter",
+      "tomb_location": "France",
+      "tomb_date": "1200",
+      "numpages": 93,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m80",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1450",
+      "numpages": 74,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m82",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1440",
+      "numpages": 12,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m83",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1485",
+      "numpages": 35,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m84",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1465",
+      "numpages": 31,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m85",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1510",
+      "numpages": 47,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m86",
+      "tomb_type": "Single leaf",
+      "tomb_location": "Spain",
+      "tomb_date": "1740",
+      "numpages": 1,
+      "coords": {
+        "lat": 40.4637,
+        "lng": -3.7492
+      }
+    },
+    {
+      "tomb_id": "m87",
+      "tomb_type": "Egmont breviary",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1440",
+      "numpages": 342,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m88",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "France",
+      "tomb_date": "1370",
+      "numpages": 35,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m89",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 14,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m90",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1375",
+      "numpages": 23,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m91",
+      "tomb_type": "Epistle lectionary",
+      "tomb_location": "Switzerland",
+      "tomb_date": "undefined",
+      "numpages": 8,
+      "coords": {
+        "lat": 46.8182,
+        "lng": 8.2275
+      }
+    },
+    {
+      "tomb_id": "m92",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1230",
+      "numpages": 64,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m93",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 24,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m94",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "Germany",
+      "tomb_date": "1250",
+      "numpages": 17,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m95",
+      "tomb_type": "MissalNorthern ",
+      "tomb_location": "Italy",
+      "tomb_date": "1461",
+      "numpages": 18,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m97",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "France",
+      "tomb_date": "1265",
+      "numpages": 30,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m98",
+      "tomb_type": "Psalter",
+      "tomb_location": "France",
+      "tomb_date": "1275",
+      "numpages": 27,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m99",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "England",
+      "tomb_date": "1405",
+      "numpages": 3,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m100",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1290",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m101",
+      "tomb_type": "Psalter",
+      "tomb_location": "France",
+      "tomb_date": "undefined",
+      "numpages": 30,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m102",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1200",
+      "numpages": 15,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m103",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1250",
+      "numpages": 17,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m104",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1450",
+      "numpages": 11,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m105",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1420",
+      "numpages": 97,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m106",
+      "tomb_type": "Psalter",
+      "tomb_location": "Belgium",
+      "tomb_date": "1256",
+      "numpages": 31,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m107",
+      "tomb_type": "Missal",
+      "tomb_location": "England",
+      "tomb_date": "1320",
+      "numpages": 449,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m108",
+      "tomb_type": "Bonus socius",
+      "tomb_location": "France",
+      "tomb_date": "1300",
+      "numpages": 24,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m109",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 13,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m110",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 30,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m111",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 43,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m113",
+      "tomb_type": "Psalter",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1200",
+      "numpages": 43,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m114",
+      "tomb_type": "Psalter",
+      "tomb_location": "Germany",
+      "tomb_date": "1300",
+      "numpages": 12,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m115",
+      "tomb_type": "Gradual",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 6,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m116",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1490",
+      "numpages": 37,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m117",
+      "tomb_type": "Book of HoursBrittany/ ",
+      "tomb_location": "France",
+      "tomb_date": "1440",
+      "numpages": 57,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m118",
+      "tomb_type": "De historia plantarum et De causis plantarum",
+      "tomb_location": "Italy",
+      "tomb_date": "1523",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m119",
+      "tomb_type": "L’histoire de Jason",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 12,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m120",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "France",
+      "tomb_date": "1370",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m124",
+      "tomb_type": "Literary",
+      "tomb_location": "England",
+      "tomb_date": "1460",
+      "numpages": 3,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m125",
+      "tomb_type": "Literary",
+      "tomb_location": "England",
+      "tomb_date": "1425",
+      "numpages": 1,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m126",
+      "tomb_type": "Literary",
+      "tomb_location": "England",
+      "tomb_date": "1470",
+      "numpages": 27,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m130",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 19,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m131",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 38,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m132",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "France",
+      "tomb_date": "1380",
+      "numpages": 67,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m136",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 27,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m137",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 14,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m138",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 78,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m139",
+      "tomb_type": "De re rustica",
+      "tomb_location": "Italy",
+      "tomb_date": "1469",
+      "numpages": 14,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m140",
+      "tomb_type": "Speculum humanae salvationis",
+      "tomb_location": "Germany",
+      "tomb_date": "1350",
+      "numpages": 96,
+      "coords": {
+        "lat": 51.1657,
+        "lng": 10.4515
+      }
+    },
+    {
+      "tomb_id": "m141",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1390",
+      "numpages": 14,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m144",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 40,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m146",
+      "tomb_type": "Missal",
+      "tomb_location": "France",
+      "tomb_date": "1427",
+      "numpages": 8,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m147",
+      "tomb_type": "Poème sur la Passion",
+      "tomb_location": "France",
+      "tomb_date": "1530",
+      "numpages": 43,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m151",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 25,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m152",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 9,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m153",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "France",
+      "tomb_date": "1228",
+      "numpages": 46,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m154",
+      "tomb_type": "Manuale Augustini",
+      "tomb_location": "Italy",
+      "tomb_date": "1462",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m155",
+      "tomb_type": "Psalter",
+      "tomb_location": "Belgium",
+      "tomb_date": "1290",
+      "numpages": 137,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m156",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1500",
+      "numpages": 46,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m157",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1440",
+      "numpages": 72,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m158",
+      "tomb_type": "Compilatio historiarum / Giovanni/ da Udine",
+      "tomb_location": "Switzerland",
+      "tomb_date": "1476",
+      "numpages": 102,
+      "coords": {
+        "lat": 46.8182,
+        "lng": 8.2275
+      }
+    },
+    {
+      "tomb_id": "m159",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 7,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m160",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 27,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m161",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1465",
+      "numpages": 10,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m163",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1229",
+      "numpages": 72,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m164",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1420",
+      "numpages": 3,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m165",
+      "tomb_type": "Régime du corps",
+      "tomb_location": "France",
+      "tomb_date": "1440",
+      "numpages": 107,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m166",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Netherlands",
+      "tomb_date": "1500",
+      "numpages": 31,
+      "coords": {
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    },
+    {
+      "tomb_id": "m167",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 16,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m168",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1450",
+      "numpages": 5,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m169",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 13,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m170",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 26,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m171",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "1480",
+      "numpages": 27,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m172",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 8,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m173",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1430",
+      "numpages": 12,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m174",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 38,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m175",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 70,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m176",
+      "tomb_type": "Psalter",
+      "tomb_location": "France",
+      "tomb_date": "1380",
+      "numpages": 5,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m177",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1260",
+      "numpages": 14,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m178",
+      "tomb_type": "Bible",
+      "tomb_location": "Italy",
+      "tomb_date": "1250",
+      "numpages": 49,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m179",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 55,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m182",
+      "tomb_type": "La diète de salut",
+      "tomb_location": "France",
+      "tomb_date": "1490",
+      "numpages": 1,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m183",
+      "tomb_type": "Psalter-Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "undefined",
+      "numpages": 315,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m184",
+      "tomb_type": "Vita S/ Benedicti",
+      "tomb_location": "Italy",
+      "tomb_date": "1450",
+      "numpages": 79,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m185",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "France",
+      "tomb_date": "1340",
+      "numpages": 32,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m187",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1480",
+      "numpages": 15,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m188",
+      "tomb_type": "La forma el modo come se debbeno ordinare e disporre quelle persone che deno andare a confortare e aconsolare le persone iudicate a morte",
+      "tomb_location": "Italy",
+      "tomb_date": "1470",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m189",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 39,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m190",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1450",
+      "numpages": 7,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m191",
+      "tomb_type": "Gospel Book",
+      "tomb_location": "France",
+      "tomb_date": "undefined",
+      "numpages": 12,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m192",
+      "tomb_type": "Compilatio historiarum totius Bibliae et historiarum scholasticarum",
+      "tomb_location": "Austria",
+      "tomb_date": "1420",
+      "numpages": 23,
+      "coords": {
+        "lat": 47.5162,
+        "lng": 14.5501
+      }
+    },
+    {
+      "tomb_id": "m193",
+      "tomb_type": "Bible",
+      "tomb_location": "France",
+      "tomb_date": "1250",
+      "numpages": 111,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m194",
+      "tomb_type": "Book of HoursNorthern ",
+      "tomb_location": "France",
+      "tomb_date": "1460",
+      "numpages": 40,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m195",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1485",
+      "numpages": 52,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m196",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1470",
+      "numpages": 21,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m197",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 41,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m198",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1480",
+      "numpages": 38,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m199",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1460",
+      "numpages": 34,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m200",
+      "tomb_type": "Breviary",
+      "tomb_location": "Italy",
+      "tomb_date": "1350",
+      "numpages": 113,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m201",
+      "tomb_type": "Missal",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 18,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m202",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1440",
+      "numpages": 37,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m207",
+      "tomb_type": "Roman du Saint Graal / Merlin",
+      "tomb_location": "France",
+      "tomb_date": "1450",
+      "numpages": 15,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m208",
+      "tomb_type": "Roman du Saint Graal / Merlin",
+      "tomb_location": "France",
+      "tomb_date": "1450",
+      "numpages": 17,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m209",
+      "tomb_type": "Breviary",
+      "tomb_location": "Italy",
+      "tomb_date": "1460",
+      "numpages": 7,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m210",
+      "tomb_type": "Breviary",
+      "tomb_location": "Italy",
+      "tomb_date": "1460",
+      "numpages": 8,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m212",
+      "tomb_type": "Histoire ancienne jusqu’à César",
+      "tomb_location": "Belgium",
+      "tomb_date": "1460",
+      "numpages": 32,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m213",
+      "tomb_type": "Faits des RomainsNorthern France or ",
+      "tomb_location": "Belgium",
+      "tomb_date": "1460",
+      "numpages": 43,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m214",
+      "tomb_type": "Chronique universelleText and foliate borders: France/ probably Rouen/ ca/ 1460//Six large miniatures: Bruges/ ",
+      "tomb_location": "Belgium",
+      "tomb_date": "1460",
+      "numpages": 16,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m224",
+      "tomb_type": "Chronique universelleText and foliate borders: France/ probably Rouen/ ca/ 1460//Six large miniatures: Bruges/ ",
+      "tomb_location": "Belgium",
+      "tomb_date": "1460",
+      "numpages": 7,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m215",
+      "tomb_type": "Bible",
+      "tomb_location": "Italy",
+      "tomb_date": "1320",
+      "numpages": 71,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m218",
+      "tomb_type": "Trente psaumes",
+      "tomb_location": "France",
+      "tomb_date": "1540",
+      "numpages": 8,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m219",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 13,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m220",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1500",
+      "numpages": 14,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m222",
+      "tomb_type": "Literary",
+      "tomb_location": "France",
+      "tomb_date": "1465",
+      "numpages": 6,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m223",
+      "tomb_type": "Bucolica and other works",
+      "tomb_location": "Italy",
+      "tomb_date": "1455",
+      "numpages": 1,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m226",
+      "tomb_type": "Vita Christi (Life of Christ)",
+      "tomb_location": "England",
+      "tomb_date": "1450",
+      "numpages": 3,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m227",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Italy",
+      "tomb_date": "1461",
+      "numpages": 4,
+      "coords": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "tomb_id": "m229",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1375",
+      "numpages": 12,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m230",
+      "tomb_type": "Bible",
+      "tomb_location": "Austria",
+      "tomb_date": "1435",
+      "numpages": 48,
+      "coords": {
+        "lat": 47.5162,
+        "lng": 14.5501
+      }
+    },
+    {
+      "tomb_id": "m231",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1485",
+      "numpages": 42,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m232",
+      "tomb_type": "Literary",
+      "tomb_location": "Belgium",
+      "tomb_date": "1470",
+      "numpages": 12,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m234",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "Belgium",
+      "tomb_date": "undefined",
+      "numpages": 41,
+      "coords": {
+        "lat": 50.5039,
+        "lng": 4.4699
+      }
+    },
+    {
+      "tomb_id": "m235",
+      "tomb_type": "Bible",
+      "tomb_location": "Syria",
+      "tomb_date": "1212",
+      "numpages": 15,
+      "coords": {
+        "lat": 34.8021,
+        "lng": 38.9968
+      }
+    },
+    {
+      "tomb_id": "m237",
+      "tomb_type": "Psalter",
+      "tomb_location": "England",
+      "tomb_date": "1400",
+      "numpages": 2,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m238",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "England",
+      "tomb_date": "1480",
+      "numpages": 11,
+      "coords": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "tomb_id": "m240",
+      "tomb_type": "Moralized Bible",
+      "tomb_location": "France",
+      "tomb_date": "1227",
+      "numpages": 8,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m241",
+      "tomb_type": "Book of Hours",
+      "tomb_location": "France",
+      "tomb_date": "1435",
+      "numpages": 23,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m242",
+      "tomb_type": "Heptameron",
+      "tomb_location": "France",
+      "tomb_date": "1560",
+      "numpages": 2,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
+      "tomb_id": "m245",
+      "tomb_type": "Roman de la Rose",
+      "tomb_location": "France",
+      "tomb_date": "1405",
+      "numpages": 31,
+      "coords": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
     }
-]
+  ]

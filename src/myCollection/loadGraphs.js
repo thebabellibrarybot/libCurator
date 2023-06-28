@@ -1,6 +1,8 @@
-import { getCoordinates, getNumLocationsPerYear, getNumTombsPerLocation, getNumTombsPerYear, getNumTypesPerLocation, getFitData} from "../useHooks/useStats.js"
+import { getNumLocationsPerYear, getNumTombsPerLocation, getNumTombsPerYear, getNumTypesPerLocation } from "../useHooks/useStats.js"
 import { useMyContext } from "../provider/provider";
 import { useParams } from "react-router-dom";
+import GeoMap from "../graphs/geomap.js" 
+import { useEffect, useState } from 'react';
 
 const LoadGraphs = () => {
 
@@ -16,18 +18,37 @@ const LoadGraphs = () => {
     const numTypesPerLocation = getNumTypesPerLocation(curCollection[0]);
 
     // get geograph
+    const myUrl = "https://raw.githubusercontent.com/thebabellibrarybot/libCurator/main/public/custom.geo.json";
+    const startlocation = [25.8566,30.3522];
+    const [data, setData] = useState(null); 
     
+
+    useEffect(() => {
+        fetch(myUrl)
+        .then((response) => response.json())
+        .then((data) => {
+            setData(data);
+        });
+    }, []);
+
+    if (!data) {
+        return <div>Loading...</div>;
+    }
 
     return (
         <div className="grid-body-3">
-            <div className='tomb'>
-                graph 1
+            <div className='tomb gr'>
+                <p>Map</p>
+                <GeoMap props = {data} marks = {numLocationsPerYear} hw = {[250,250]} startpoint = {startlocation} scale = {280} viewer = {true}/>
             </div>
-            <div className='tomb'>
-                graph 2
+            <div className='tomb gr'>
+                <>{/* geomap of tombsPerLocation*/}</>
+                <p>Number of Tombs Per Location</p>
+                <GeoMap props = {data} marks = {numTombsPerLocation} hw = {[250,250]} startpoint = {startlocation} scale = {240} viewer = {true}/> 
             </div>
-            <div className='tomb'>
-                graph 3
+            <div className='tomb gr'>
+                <p>Number of Tomb Types Per Location</p>
+                <GeoMap props = {data} marks = {numTypesPerLocation} hw = {[250,250]} startpoint = {startlocation} scale = {240} viewer = {true}/>
             </div>
             <div className='tomb'>
                 graph 4

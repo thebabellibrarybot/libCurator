@@ -5,8 +5,6 @@ const MyCollections = () => {
 
     const { myCollections, collection } = useMyContext();
 
-    console.log(collection, 'collection')
-
     return (
         <div className="main main-bx">
         <div className="main-header">
