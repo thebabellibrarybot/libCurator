@@ -3,6 +3,7 @@ import './tombGrid.css';
 import ChangePage from './changePage.js';
 import { useMyContext } from '../provider/provider';
 import SVG from '../useHooks/useSVG';
+import { getFirstFolioURL } from '../useHooks/useStats';
 
 const TombGrid = ({ data, type }) => {
   const itemsPerPage = 12;
@@ -16,10 +17,12 @@ const TombGrid = ({ data, type }) => {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
   const currentPageData = data.slice(startIndex, endIndex);
-
   const { collection, addCollectionObj, removeCollectionObj, incrementCount, decrementCount } = useMyContext();
+  const filePath = "../backend/folio.json";
+  const img = getFirstFolioURL(filePath, data[0]);
+  console.log(img, data[0], 'img');
 
-  console.log(collection, 'collection');
+
 
   // i need to take another look at this datatype
   const isTombActive = (tomb) => {

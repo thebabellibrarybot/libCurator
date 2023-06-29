@@ -1,3 +1,6 @@
+// get the first folio info 
+const fs = require('fs');
+
 // timeline: basic timeline of  #tomb in collection :timeline
 // get #tombs per year from collection :timeline
 export const getNumTombsPerYear = (collection) => {
@@ -120,5 +123,24 @@ export const getNumTypesPerLocation = (collection) => {
       return null;
     }
   };
+
+
+export function getFirstFolioURL(url, tombId) {
+    return fetch(url)
+      .then(response => response.json())
+      .then(jsonData => {
+        for (let i = 0; i < jsonData.length; i++) {
+          if (jsonData[i].tomb_id === tombId) {
+            return jsonData[i].folio_url;
+          }
+        }
+        return null; // Return null if no matching object is found
+      })
+      .catch(error => {
+        console.error('Error fetching or parsing JSON:', error);
+        return null;
+      });
+  }
+  
 
 

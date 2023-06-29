@@ -53,7 +53,7 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
         .data(jsonData.features)
         .enter()
         .append("path")
-        .attr("fill", "#1f2229")
+        .attr("fill", "#262d2f")
         .attr("d", d3.geoPath()
             .projection(projection)
         )
@@ -90,7 +90,7 @@ const GeoMap = ({props, marks, hw, startpoint, scale, viewer}) => {
         .on('mouseover', function(event, d) {
           // add text element show value on hover
           d3.select(this)
-          tooltip.html(`<h1>Location: ${d.location}</h1><h2>counts: ${d.count}</h2>`)
+          tooltip.html(`<h1>${d.location}</h1><h2>counts: ${d.count}</h2>`)
             .style("visibility", "visible")
             .style("top", (event.pageY-10)+"px")
             .style("left",(event.pageX+10)+"px");

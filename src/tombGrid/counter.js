@@ -6,7 +6,7 @@ const Counter = () => {
     const {count} = useMyContext()
 
     return (
-        <div>
+        <div className="count">
             <SVG ability = 'counter'/>
             <p>{count}</p>
         </div>

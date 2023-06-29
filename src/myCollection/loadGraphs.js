@@ -50,13 +50,13 @@ const LoadGraphs = () => {
                 <p>Number of Tomb Types Per Location</p>
                 <GeoMap props = {data} marks = {numTypesPerLocation} hw = {[250,250]} startpoint = {startlocation} scale = {240} viewer = {true}/>
             </div>
-            <div className='tomb'>
+            <div className='tomb gr'>
                 graph 4
             </div>
-            <div className='tomb'>
+            <div className='tomb gr'>
                 graph 5
             </div>
-            <div className='tomb'>
+            <div className='tomb gr'>
                 graph 6
             </div>
         </div>

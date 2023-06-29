@@ -31,20 +31,20 @@ const CollectionButton = () => {
             <button>create</button>
             </>
             :
-            <>
-                <>
+            <div className="main-flbx">
+                <div className = "butts">
                 <SVG ability = 'savecollection'/>
-                <button onClick={()=>saveBasic(collection)}>save</button>
-                </>
-                <>
+                <p onClick={()=>saveBasic(collection)}>save</p>
+                </div>
+                <div className = "butts">
                 <SVG ability = 'deletecollection'/>
-                <button onClick={deleteCollection}>delete</button>
-                </>
-                <>
+                <p onClick={deleteCollection}>delete</p>
+                </div>
+                <div className = "butts">
                 <SVG ability = 'newcollection'/>
-                <button onClick={newCollection}>new collection</button>
-                </>
-            </>
+                <p onClick={newCollection}>new collection</p>
+                </div>
+            </div>
             }
         </div>
     )
