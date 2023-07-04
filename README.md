@@ -2,7 +2,7 @@
 
 This is a React frontend application that provides researchers with the ability to create, share, and visualize personally curated collections of library archives. The application fetches data from an API, which is dockerized in another linked repository. It also utilizes the D3 library to graphically represent the library data.
 
-![SVG Image](libCurator/public/book.svg)
+![SVG Image](public/book.svg)
 
 ## Features
 
