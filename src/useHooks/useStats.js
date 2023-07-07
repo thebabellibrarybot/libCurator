@@ -1,6 +1,4 @@
 // get the first folio info 
-const fs = require('fs');
-
 // timeline: basic timeline of  #tomb in collection :timeline
 // get #tombs per year from collection :timeline
 export const getNumTombsPerYear = (collection) => {
